@@ -1,0 +1,27 @@
+article{
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+#boton{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 30%;
+}
+#boton2{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 30%;
+}
